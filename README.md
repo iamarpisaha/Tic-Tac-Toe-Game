@@ -44,6 +44,6 @@ No installation required - simply open the `index.html` file in any modern web b
 
 ## Screenshot
 
-![TIC TAC TOE GAME Screenshot](TictacToe.png)
+![TIC TAC TOE GAME Screenshot](TicTacToe.png)
 
 Enjoy the game!
